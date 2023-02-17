@@ -89,7 +89,17 @@ content:
            November 2022 - January 2023
         description: | # this will include new lines to allow paragraphs
           MAleefy is a veterinarian application that provides all the health services needed by pet owners. With this application, you can easily track your pet's health processes, communicate with other pet owners through the socialization section, and share your pet's photos or videos. Aleefy also shows you the nearest veterinary clinics to ensure that your pet gets the health services as soon as possible. This project is developed to make the lives of pet owners easier.
-          
+      - layout: top-middle
+        title: DonatBi
+        # link_text: Project Website
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           July 2022 - Continues
+        description: | # this will include new lines to allow paragraphs
+        With our project called Donatbi, we have developed a food ordering application where users can order food to their address whenever they want. The application also allows users to order from restaurants and pick up their food at their desired time. Users can also make reservations at restaurants and pay for their meals online without wasting time.          
+
 
 
   - title: Experience # Title for the section
