@@ -53,8 +53,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: ToDoApp
+        link: github.com/karakuserdi/ToDoApp
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -63,10 +63,11 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          TodoList is an application that allows users to add their tasks in a sequence and create a shopping list. This project is developed in the swift programming language and uses sqlite for the backend. It is developed using the Viper design pattern. The biggest challenge in this project was using the Viper pattern correctly.
+          
+          With this project, users can add their tasks in a sequence and mark them as completed whenever they want. They can also create a shopping list and update it at any time. This application will help users to stay organized and keep track of their tasks.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
