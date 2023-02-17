@@ -124,6 +124,15 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
             I worked as a software developer focusing on API development using .NET at Fenerbahçe University for a period of six months. During this time, I collaborated with the team to understand the requirements, designed and implemented the APIs, and conducted testing and debugging. Additionally, I worked with my colleagues to ensure that our software development practices were aligned with industry standards.
+      - layout: left
+        title: ArafasApps
+        link: www.arafas.com
+        # link_text: 
+        sub_title: iOS Developer
+        caption: April 2022 - Present
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+            I have been working as an iOS developer at ArafasApps for approximately a year, where I have been involved in a wide range of projects, including Minihr, Donatbi, Aleefy, Btob, White Noise, Bcloud, and more. During this time, I have gained valuable experience in designing and implementing iOS applications, collaborating with project teams, and providing solutions to complex challenges. This experience has helped me hone my skills as a developer and has prepared me for tackling new challenges in the field.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
