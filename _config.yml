@@ -134,22 +134,28 @@ content:
         description: | # this will include new lines to allow paragraphs
             I have been working as an iOS developer at ArafasApps for approximately a year, where I have been involved in a wide range of projects, including Minihr, Donatbi, Aleefy, Btob, White Noise, Bcloud, and more. During this time, I have gained valuable experience in designing and implementing iOS applications, collaborating with project teams, and providing solutions to complex challenges. This experience has helped me hone my skills as a developer and has prepared me for tackling new challenges in the field.
 
-    - title: Education
-     layout: list
-     content:
-       - layout: left
-         title: Maltepe University
-         caption: 2018 - 2021
-         sub_title: Bachelor's Degree, Computer Engineering
-         skills: Git, English
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Maltepe University
+        caption: 2018 - 2021
+        sub_title: Bachelor's Degree, Computer Engineering
+        description: | # this will include new lines to allow paragraphs
+          During my time at Maltepe Univercity I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
       - layout: left
         title: Maltepe University
         caption: 2014 - 2017
         sub_title: Associate's Degree, Computer Programming
+        description: | # this will include new lines to allow paragraphs
+            ---
       - layout: left
-         title: University of Vienna
-         caption: 2010
-         sub_title: Bachelor's Degree, Computer Science
+        title: University of Vienna
+        caption: 2010
+        sub_title: Bachelor's Degree, Computer Science
+        description: | # this will include new lines to allow paragraphs
+            ---
+
 
   - title: A Little More About Me
     layout: text
