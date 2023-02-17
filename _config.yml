@@ -59,7 +59,7 @@ content:
         additional_links:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/karakuserdi/ToDoApp
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -68,6 +68,19 @@ content:
           TodoList is an application that allows users to add their tasks in a sequence and create a shopping list. This project is developed in the swift programming language and uses sqlite for the backend. It is developed using the Viper design pattern. The biggest challenge in this project was using the Viper pattern correctly.
           
           With this project, users can add their tasks in a sequence and mark them as completed whenever they want. They can also create a shopping list and update it at any time. This application will help users to stay organized and keep track of their tasks.
+
+    content:
+         - layout: top-middle
+        title: MiniHR
+        # link_text: Project Website
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           Nis 2022 - Haz 2022
+        description: | # this will include new lines to allow paragraphs
+           MiniHr simplifies the tracking of company activities and allows employees to see their leave requests, projects they are working on, and the time they spend on these projects. This application also keeps users informed of internal company activities.
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
