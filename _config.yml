@@ -63,6 +63,8 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           December 2022 - December 2022
         description: | # this will include new lines to allow paragraphs
           TodoList is an application that allows users to add their tasks in a sequence and create a shopping list. This project is developed in the swift programming language and uses sqlite for the backend. It is developed using the Viper design pattern. The biggest challenge in this project was using the Viper pattern correctly.
           
@@ -74,10 +76,21 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-           Nis 2022 - Haz 2022
+           April 2022 - June 2022
         description: | # this will include new lines to allow paragraphs
           MiniHr simplifies the tracking of company activities and allows employees to see their leave requests, projects they are working on, and the time they spend on these projects. This application also keeps users informed of internal company activities.
+      - layout: top-middle
+        title: Aleefy
+        # link_text: Project Website
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           November 2022 - January 2023
+        description: | # this will include new lines to allow paragraphs
+          MAleefy is a veterinarian application that provides all the health services needed by pet owners. With this application, you can easily track your pet's health processes, communicate with other pet owners through the socialization section, and share your pet's photos or videos. Aleefy also shows you the nearest veterinary clinics to ensure that your pet gets the health services as soon as possible. This project is developed to make the lives of pet owners easier.
           
+
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
