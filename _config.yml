@@ -142,29 +142,28 @@ content:
         caption: 2018 - 2021
         sub_title: Bachelor's Degree, Computer Engineering
         description: | # this will include new lines to allow paragraphs
-          During my time at Maltepe Univercity I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+            In 2018, l registered Maltepe University Computer Engeneer department and l greduated from there in 2021.
       - layout: left
         title: Maltepe University
         caption: 2014 - 2017
         sub_title: Associate's Degree, Computer Programming
         description: | # this will include new lines to allow paragraphs
-            ---
+            When l go back to Turkey l registered at Maltepe University computer programming department and l graduated in 2017.
       - layout: left
         title: University of Vienna
-        caption: 2010
+        caption: 2010 - Dropout
         sub_title: Bachelor's Degree, Computer Science
         description: | # this will include new lines to allow paragraphs
-            ---
+            l lived in for 3 years. Firstly, I took a German course for 1.5 years, after I finished the German course, I enrolled in the school. But having to go back to turkey due to economic conditions.
 
 
-  - title: A Little More About Me
+  - title: Languages
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
+      - Turkish - Advanced
+      - English - Good
       - Knitting
-      -
+      - German - Medium
 
 # Footer
 footer_show_references: true
