@@ -164,6 +164,17 @@ content:
       - English - Good
       - German - Medium
 
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - IOS Application Development (UIKit - SwiftUI)
+      - Alamofire, Kingfisher, URLSession
+      - SQLite - Firebase
+      - C#, ASP.NET Core
+
+      Design Patterns
+      -MVC,MVVM,VIPER Pattern
+
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
