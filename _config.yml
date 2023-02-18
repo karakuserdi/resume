@@ -15,24 +15,7 @@ darkmode: false
 
 # Social links
 github_username:  karakuserdi
-
-
 linkedin_username: rizaerdikarakus
-
-
-# googleplus_username: +rizaerdikarakus
-# orcid_username: 0000-0000-0000-0000
-
-
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
 # about_title: About Me
@@ -99,9 +82,28 @@ content:
            July 2022 - Continues
         description: | # this will include new lines to allow paragraphs
           With our project called Donatbi, we have developed a food ordering application where users can order food to their address whenever they want. The application also allows users to order from restaurants and pick up their food at their desired time. Users can also make reservations at restaurants and pay for their meals online without wasting time.          
+      - layout: top-middle
+        title: Noisely
+        # link_text: Project Website
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           February 2023 - February - 2023
+        description: | # this will include new lines to allow paragraphs
+          Noisely is a mobile app that allows users to play multiple sounds at the same time and create customized sound lists. With weekly and monthly subscription options, users can access the full version of the app according to their preferences. It is an ideal tool for those who need to work, focus or relax in noisy environments.
 
-
-
+          We focused on user needs and ease of use when developing Noisely. The app is regularly updated to provide the best user experience.
+      - layout: top-middle
+        title: BTOB
+        # link_text: Project Website
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           January 2023 - Continues
+        description: | # this will include new lines to allow paragraphs
+          The B2B application I developed using the Swift programming language is a tool that facilitates direct communication and commercial transactions between businesses. The application includes features such as product catalogs, price lists, order tracking, and a user-friendly interface, which can accelerate and streamline the business process. Additionally, the application can help businesses increase customer satisfaction and gain a competitive advantage. This project demonstrates my Swift programming skills and my ability to understand the needs of businesses.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -155,7 +157,6 @@ content:
         sub_title: Bachelor's Degree, Computer Science
         description: | # this will include new lines to allow paragraphs
             l lived in for 3 years. Firstly, I took a German course for 1.5 years, after I finished the German course, I enrolled in the school. But having to go back to turkey due to economic conditions.
-
 
   - title: Languages
     layout: text
