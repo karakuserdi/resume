@@ -162,7 +162,6 @@ content:
     content: | # this will include new lines to allow paragraphs
       - Turkish - Advanced
       - English - Good
-      - Knitting
       - German - Medium
 
 # Footer
