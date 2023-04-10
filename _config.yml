@@ -101,10 +101,24 @@ content:
         #   icon: fab fa-github
         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-           January 2023 - Continues
+           January 2023 - April 2023
         description: | # this will include new lines to allow paragraphs
           The B2B application I developed using the Swift programming language is a tool that facilitates direct communication and commercial transactions between businesses. The application includes features such as product catalogs, price lists, order tracking, and a user-friendly interface, which can accelerate and streamline the business process. Additionally, the application can help businesses increase customer satisfaction and gain a competitive advantage. This project demonstrates my Swift programming skills and my ability to understand the needs of businesses.
+      - layout: top-middle
+        title: SparrowAI
+        # link_text: Project Website
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           March 2023 - Continues
+        description: | # this will include new lines to allow paragraphs
+          SparrowAI is an AI-powered application designed to make it easy for users to acquire information. The application, which works using ChatGPT, can provide accurate answers to all kinds of questions. SparrowAI is a learning system that can understand user requests and provide appropriate responses.
 
+          SparrowAI provides quick, effective, and accurate answers on all kinds of subjects. Through a customizable interface based on queries, users can input their questions directly by typing or speaking. SparrowAI is designed to provide answers to all kinds of questions using natural language processing and machine learning technologies.
+          
+          SparrowAI is an application that can be used in many sectors. For example, customer service or sales departments can quickly and effectively respond to user questions. Additionally, SparrowAI becomes better over time thanks to its learning ability, providing more value to users.
+                 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
