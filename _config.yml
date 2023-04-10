@@ -115,6 +115,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           Bcloud is an in-house management application specially designed to perform management tasks quickly and efficiently. The application, developed in Swift language, is easily accessible by users on the iOS platform.
       - layout: top-middle
+        title: QuakeSafe
+        # link_text: Project Website
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+           February 2023 - February 2023
+        description: | # this will include new lines to allow paragraphs
+          QuakeSafe is an emergency app designed to help those in need during an earthquake. It's equipped with special features like sound and flash alerts to help rescuers find you easily. It also includes a list of emergency numbers for quick dialing. Download QuakeSafe now and stay safe during an earthquake. Have a reliable app to assist you in times of crisis.
+      - layout: top-middle
         title: SparrowAI
         # link_text: Project Website
         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
