@@ -9,6 +9,8 @@ version: 2
 name: Riza Erdi Karakuş
 title: iOS Developer
 email: karakusrizaerdi@gmail.com
+phone: +90 532 317 0403
+Address: Kartal / Istanbul
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -153,7 +155,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             l started to work 2 August in TRTek software as a ASP.NET Core developer. I took part in the development and establishment of the hospital information management system program.
       - layout: left
-        title: Fenerbahçe Univercity
+        title: Fenerbahçe University
         link: www.fbu.edu.tr
         # link_text: 
         sub_title: Software Developer
